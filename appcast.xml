@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>GiveMeTwenty</title>
+        <item>
+            <title>1.6</title>
+            <pubDate>Wed, 15 May 2024 20:34:06 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/nilekell/GiveMeTwentyReleases/releases/download/prod/GiveMeTwenty.dmg" length="1811671" type="application/octet-stream" sparkle:edSignature="HHvkLiVTgpz2KVROXbQ53vpzwVE7onqheZNmzQ8JhK8qr2fH7gdUpkZYwzy7Moo4dfp88OSIc2RJp0In551mAA=="/>
+        </item>
+    </channel>
+</rss>
