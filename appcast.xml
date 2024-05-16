@@ -3,12 +3,12 @@
     <channel>
         <title>GiveMeTwenty</title>
         <item>
-            <title>1.7</title>
-            <pubDate>Wed, 15 May 2024 21:47:31 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <title>1.8</title>
+            <pubDate>Thu, 16 May 2024 15:31:40 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/nilekell/GiveMeTwentyReleases/releases/download/prod/GiveMeTwenty.dmg" length="1811591" type="application/octet-stream" sparkle:edSignature="MQlGnK61EJTlMynpWMyOH4Gn0LcAZzKfY9ygNkDN4D66a5Oup+Bps9uhbi/EKxcISjM13KIXQWgdlwv4RJpeDg=="/>
+            <enclosure url="https://github.com/nilekell/GiveMeTwentyReleases/releases/download/prod/GiveMeTwenty.dmg" length="1811975" type="application/octet-stream" sparkle:edSignature="2OTraQSJk6yr3Vsqa9O73V8vD3h2Oz6TByDIdnsVlODDZ6ejtChGa7woQB1ZT2uqAKg6cOlh+iPSzTi6JdV5DA=="/>
         </item>
     </channel>
 </rss>
